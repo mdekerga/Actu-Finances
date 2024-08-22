@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/d4efcfa0-e740-47c4-b33d-3150c37b32fc)
 
 ## Fabriqué avec
-* Tkinter - Interface graphique
-* Yfinance - API 
+* **Tkinter** - Interface graphique
+* **Yfinance** - API 
