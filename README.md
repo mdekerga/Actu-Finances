@@ -1,4 +1,4 @@
-# Yahoo Finances
+# Actu Finances
 
 ## Description
 Programme en Python qui permet de connaître les informations sur une entreprise dans une liste prédéfinis
